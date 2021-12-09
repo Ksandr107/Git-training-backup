@@ -1,2 +1,1 @@
 # Git-training
-some content
