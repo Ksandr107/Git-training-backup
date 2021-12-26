@@ -30,3 +30,5 @@ directory, not subdir/TODO
 build/
 
 add next line in new branch "feature"
+
+add second line in new branch "feature"
