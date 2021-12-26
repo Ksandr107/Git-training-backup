@@ -34,3 +34,5 @@ add next line in new branch "feature"
 add second line in new branch "feature"
 
 add 3rd line in new branch "feature"
+
+for tag only
