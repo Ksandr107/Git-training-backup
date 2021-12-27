@@ -14,7 +14,7 @@ we can just dance to this
 don't take much to start me
 I never have seen Star Wars
 
-
+---- .gitignore file for examples ----------
 # no .log files
 *.log
 
@@ -28,11 +28,5 @@ directory, not subdir/TODO
 
 # ignore all files in the build/ directory
 build/
+---------------------------------------------
 
-add next line in new branch "feature"
-
-add second line in new branch "feature"
-
-add 3rd line in new branch "feature"
-
-for tag only
