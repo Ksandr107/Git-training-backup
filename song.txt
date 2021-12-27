@@ -36,3 +36,5 @@ add second line in new branch "feature"
 add 3rd line in new branch "feature"
 
 add line "A"
+
+add line "B"
