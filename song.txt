@@ -30,3 +30,5 @@ directory, not subdir/TODO
 build/
 ---------------------------------------------
 I wish I had a memory like an elephant!
+Lisa is used to working hard
+
